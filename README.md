@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://guests-touring-org-acer.trycloudflare.com](https://guests-touring-org-acer.trycloudflare.com)
+**Active URL:** [https://inquiries-ruby-sponsorship-topic.trycloudflare.com](https://inquiries-ruby-sponsorship-topic.trycloudflare.com)
 
-_Last Updated: Thu Oct  8 04:24:29 UTC 2026_
+_Last Updated: Thu Oct  8 12:34:09 UTC 2026_

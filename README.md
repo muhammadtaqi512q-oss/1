@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://query-university-palmer-asked.trycloudflare.com](https://query-university-palmer-asked.trycloudflare.com)
+**Active URL:** [https://took-checking-caps-protecting.trycloudflare.com](https://took-checking-caps-protecting.trycloudflare.com)
 
-_Last Updated: Thu Oct 15 19:36:49 UTC 2026_
+_Last Updated: Thu Oct 15 22:49:45 UTC 2026_
